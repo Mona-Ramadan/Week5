@@ -1,0 +1,38 @@
+body {
+  /* background-color: chartreuse;*/
+}
+
+/* thml selector*/
+h1 {
+    color: crimson;
+    font-size: 36px;
+}
+
+p {
+    color: rgb(62, 254, 62);
+    text-align: right;
+}
+/* id selector*/
+#promo{
+    background-color: rgb(167, 167, 14);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*class selector*/
+.jEntry {
+    background-color: #9e4242;
+}
+
+/*grouping seletores*/
+article h2,
+article p {
+    text-align: center;
+}
+/*Dec selector*/
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
